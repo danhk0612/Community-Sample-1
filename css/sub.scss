@@ -1,0 +1,45 @@
+@import "main.scss";
+
+#right-side {
+    width: 250px;
+}
+
+.right-banner-img {
+    width: 100%;
+
+    img {
+        width: 100%;
+        height: 50px;
+        margin-bottom: 1rem;
+    }
+}
+
+#post-layer {
+    .button {
+        background: $side-bg;
+        color: $side-menu;
+    }
+}
+#post-main {
+    .badge {
+        margin-left: .5rem;
+        padding: 0.3em;
+        border-radius: 0%;
+        font-size: 0.7rem;
+    }
+
+    .primary {
+        background: $side-bg;
+        color: $side-menu;
+    }
+}
+
+#comment-list {
+    > ul {
+        margin-left: 0;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+}

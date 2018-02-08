@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<postlist>
+    <totalitem>10</totalitem>
+    <post>
+        <no>1</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>2</read>
+        <vote>5</vote>
+        <content></content>
+    </post>
+    <post>
+        <no>2</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>4</read>
+        <vote>7</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>3</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>12</read>
+        <vote>50</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>4</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>1</read>
+        <vote>5</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>5</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>7</read>
+        <vote>4</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>6</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>5</read>
+        <vote>7</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>7</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>114</read>
+        <vote>2</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>8</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>20</read>
+        <vote>5</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>9</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>152</read>
+        <vote>0</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>10</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>102</read>
+        <vote>0</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>11</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>75</read>
+        <vote>3</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>12</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>2114</read>
+        <vote>50</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>13</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>2</read>
+        <vote>5</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>14</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>1</read>
+        <vote>0</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>15</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>65</read>
+        <vote>5</vote>
+        <content>본문 글 예제 내용입니다.&lt;br&gt;&lt;img src=&quot;../img/3.jpg&quot;&gt;&lt;br&gt;예제 첨부 사진입니다.</content>
+    </post>
+        <post>
+        <no>16</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>55</read>
+        <vote>7</vote>
+        <content></content>
+    </post>
+        <post>
+        <no>17</no>
+        <category>분류</category>
+        <title>글 제목 예제 입니다.</title>
+        <author>이름</author>
+        <date>2018-01-10</date>
+        <read>1</read>
+        <vote>0</vote>
+        <content></content>
+    </post>
+
+</postlist>

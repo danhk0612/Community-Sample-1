@@ -1,0 +1,116 @@
+$side-bg: rgb(11, 95, 192);
+$side-menu: white;
+$mini-left-width: 60px;
+
+body {
+    overflow-x: hidden;
+}
+
+#left-side {
+    width: 200px;
+    background-color: $side-bg;
+
+    p {
+        margin-bottom: 0;
+    }
+}
+
+#menu-de-expand {
+    margin-bottom: 0;
+    padding-right: 3px;
+}
+
+.side-menu {
+    a, .button, .button:hover, .button:focus {
+        color: $side-menu;
+    }
+    #site-name {
+        padding-left: 0;
+    }
+}
+#big-side {
+    .input-group{
+        margin:1rem 16px;
+    }
+    i {
+        padding-right: .5rem;
+    }
+}
+.title-bar {
+    background-color: $side-bg;
+    padding: 1em;
+    a {
+        color: $side-menu;
+    }
+
+}
+
+.top-bar {
+    background-color: $side-menu;
+    border-bottom: 1px solid #000;
+
+    ul {
+        background-color: white;
+    }
+
+    .is-active > a, a {
+        color: black !important;
+    }
+
+    a::after {
+        border-color: black transparent transparent !important;
+    }
+}
+
+.mini-left {
+    width: $mini-left-width !important;
+}
+
+.orbit-image {
+    max-height: 500px;
+}
+
+.submenu-toggle::after {
+    border-color: $side-menu transparent transparent;
+}
+
+.callout {
+    h5, h6 {
+        background-color: $side-bg;
+        color: $side-menu;
+    }
+
+    h5 {
+        padding: .5rem;
+    }
+
+    h6 {
+        padding: .2rem;
+    }
+
+    li > a {
+        color: black;
+    }
+}
+
+#footer {
+    border-color: $side-menu;
+}
+
+#copyright {
+    margin-right: 1rem;
+    margin-bottom: 0;
+}
+
+#top {
+    position: fixed;
+    bottom: .5rem;
+    left: .5rem;
+}
+
+@media screen and (max-width: 640px) {
+    #top {
+        right: .5rem;
+        left: initial;
+    }
+}
