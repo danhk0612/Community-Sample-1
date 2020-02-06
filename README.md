@@ -5,7 +5,6 @@
 ## URL
 
 - https://danhk0612.github.io/Community-Sample-1/
-- http://community.mydepot.kr/
 
 ## Tech
 
